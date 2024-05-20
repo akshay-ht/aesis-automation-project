@@ -27,3 +27,36 @@ step-by-step guide to get you started with Jenkins:
 	
 =====================================================================
 Secreate Key: 17a4a37d01d8463ca2b5446313e7e0da
+
+
+======================================================================
+Git Command
+
+git init
+
+rm -rf .git ==>Remove git from local
+
+git remote add origin URL  ==>Add remote server
+
+git fetch --all   ==> Fetch branches
+
+git checkout branchname  ==>switch branch
+
+git checkout -b branchname  ==>create new branch
+
+git checkout -d branchname   ==> Delete branch
+
+git branch  ==>list of branch
+
+git add .  ==> add all files
+
+git add filename  ==> add single file
+
+git commit -m "add message"  ==>push changes to local server
+
+git status
+
+git pull  
+
+git push -u origin branch name
+
