@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[setAesisLoginPageUsername]]>
+    </line>
+    <line>
+      <![CDATA[setAesisLoginPagePassword]]>
+    </line>
+    <line>
+      <![CDATA[clickAesisLoginPagebutton]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinuebutton]]>
+    </line>
+    <line>
+      <![CDATA[verifyToSelectMyStudent]]>
+    </line>
+    <line>
+      <![CDATA[verifyToSelectThomasSmithStudent]]>
+    </line>
+    <line>
+      <![CDATA[verifySelectMedicalTab]]>
+    </line>
+    <line>
+      <![CDATA[verifyClickOnPlusIcon]]>
+    </line>
+    <line>
+      <![CDATA[verifyAddMedicalRecord]]>
+    </line>
+    <line>
+      <![CDATA[verifySelectCategory]]>
+    </line>
+    <line>
+      <![CDATA[verifySelectName]]>
+    </line>
+    <line>
+      <![CDATA[verifySelectRepotedDate]]>
+    </line>
+    <line>
+      <![CDATA[verifySelectRepotedDate]]>
+    </line>
+    <line>
+      <![CDATA[verifyToAddFileuploading]]>
+    </line>
+    <line>
+      <![CDATA[VerifySaveMedicalRecords]]>
+    </line>
+    <line>
+      <![CDATA[verifyToSelectMyStudent]]>
+    </line>
+    <line>
+      <![CDATA[verifyToSelectThomasSmithStudent]]>
+    </line>
+    <line>
+      <![CDATA[verifySelectEventTab]]>
+    </line>
+    <line>
+      <![CDATA[verifyClickOnPlusIcon]]>
+    </line>
+    <line>
+      <![CDATA[verifyAddEventRecord]]>
+    </line>
+    <line>
+      <![CDATA[verifySelectCategory]]>
+    </line>
+    <line>
+      <![CDATA[verifySelectComment]]>
+    </line>
+    <line>
+      <![CDATA[verifyActionneeded_Taken]]>
+    </line>
+    <line>
+      <![CDATA[verifyInternalNotes]]>
+    </line>
+    <line>
+      <![CDATA[verifySelectRepotedDate]]>
+    </line>
+    <line>
+      <![CDATA[VerifySaveEventRecords]]>
+    </line>
+    <line>
+      <![CDATA[verifyToSelectMyStudent]]>
+    </line>
+    <line>
+      <![CDATA[verifyToSelectThomasSmithStudent]]>
+    </line>
+    <line>
+      <![CDATA[verifySelectAccountTab]]>
+    </line>
+    <line>
+      <![CDATA[verifyToReplaceProfile]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression_Suite" duration-ms="149627" started-at="2023-05-27T21:07:12 IST" finished-at="2023-05-27T21:09:42 IST">
+    <groups>
+    </groups>
+    <test name="AesisTest_scenarios" duration-ms="149627" started-at="2023-05-27T21:07:12 IST" finished-at="2023-05-27T21:09:42 IST">
+      <class name="com.aesis.test.event_record.AddEventRecordsTest">
+        <test-method status="PASS" signature="aesisEventRecord()[pri:0, instance:com.aesis.test.event_record.AddEventRecordsTest@701fc37a]" name="aesisEventRecord" duration-ms="41645" started-at="2023-05-27T21:08:40 IST" description="Valiadate the student Event records" finished-at="2023-05-27T21:09:22 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[verifyToSelectMyStudent]]>
+            </line>
+            <line>
+              <![CDATA[verifyToSelectThomasSmithStudent]]>
+            </line>
+            <line>
+              <![CDATA[verifySelectEventTab]]>
+            </line>
+            <line>
+              <![CDATA[verifyClickOnPlusIcon]]>
+            </line>
+            <line>
+              <![CDATA[verifyAddEventRecord]]>
+            </line>
+            <line>
+              <![CDATA[verifySelectCategory]]>
+            </line>
+            <line>
+              <![CDATA[verifySelectComment]]>
+            </line>
+            <line>
+              <![CDATA[verifyActionneeded_Taken]]>
+            </line>
+            <line>
+              <![CDATA[verifyInternalNotes]]>
+            </line>
+            <line>
+              <![CDATA[verifySelectRepotedDate]]>
+            </line>
+            <line>
+              <![CDATA[VerifySaveEventRecords]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aesisEventRecord -->
+      </class> <!-- com.aesis.test.event_record.AddEventRecordsTest -->
+      <class name="com.aesis.test.medical_records.AddMedicalRecordsTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.aesis.test.medical_records.AddMedicalRecordsTest@2bbaf4f0]" name="setup" is-config="true" duration-ms="65557" started-at="2023-05-27T21:06:06 IST" finished-at="2023-05-27T21:07:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="aesisAddMedicalrecordTest()[pri:0, instance:com.aesis.test.medical_records.AddMedicalRecordsTest@2bbaf4f0]" name="aesisAddMedicalrecordTest" duration-ms="88295" started-at="2023-05-27T21:07:12 IST" description="Valiadate the student medical records" finished-at="2023-05-27T21:08:40 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[setAesisLoginPageUsername]]>
+            </line>
+            <line>
+              <![CDATA[setAesisLoginPagePassword]]>
+            </line>
+            <line>
+              <![CDATA[clickAesisLoginPagebutton]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinuebutton]]>
+            </line>
+            <line>
+              <![CDATA[verifyToSelectMyStudent]]>
+            </line>
+            <line>
+              <![CDATA[verifyToSelectThomasSmithStudent]]>
+            </line>
+            <line>
+              <![CDATA[verifySelectMedicalTab]]>
+            </line>
+            <line>
+              <![CDATA[verifyClickOnPlusIcon]]>
+            </line>
+            <line>
+              <![CDATA[verifyAddMedicalRecord]]>
+            </line>
+            <line>
+              <![CDATA[verifySelectCategory]]>
+            </line>
+            <line>
+              <![CDATA[verifySelectName]]>
+            </line>
+            <line>
+              <![CDATA[verifySelectRepotedDate]]>
+            </line>
+            <line>
+              <![CDATA[verifySelectRepotedDate]]>
+            </line>
+            <line>
+              <![CDATA[verifyToAddFileuploading]]>
+            </line>
+            <line>
+              <![CDATA[VerifySaveMedicalRecords]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aesisAddMedicalrecordTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.aesis.test.medical_records.AddMedicalRecordsTest@2bbaf4f0]" name="teardown" is-config="true" duration-ms="209" started-at="2023-05-27T21:09:42 IST" finished-at="2023-05-27T21:09:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.aesis.test.medical_records.AddMedicalRecordsTest -->
+      <class name="com.aesis.test.replace_profile_photo.ReplaceProfilePhotoTest">
+        <test-method status="PASS" signature="aesisReplaceProfilePhoto()[pri:0, instance:com.aesis.test.replace_profile_photo.ReplaceProfilePhotoTest@4148db48]" name="aesisReplaceProfilePhoto" duration-ms="19548" started-at="2023-05-27T21:09:22 IST" description="Valiadate the student replace profile photo" finished-at="2023-05-27T21:09:42 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[verifyToSelectMyStudent]]>
+            </line>
+            <line>
+              <![CDATA[verifyToSelectThomasSmithStudent]]>
+            </line>
+            <line>
+              <![CDATA[verifySelectAccountTab]]>
+            </line>
+            <line>
+              <![CDATA[verifyToReplaceProfile]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aesisReplaceProfilePhoto -->
+      </class> <!-- com.aesis.test.replace_profile_photo.ReplaceProfilePhotoTest -->
+    </test> <!-- AesisTest_scenarios -->
+  </suite> <!-- Regression_Suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression_Suite">
+  <test  name="AesisTest_scenarios">
+    <classes>
+      <class name="com.aesis.test.medical_records.AddMedicalRecordsTest"/>
+      <class name="com.aesis.test.event_record.AddEventRecordsTest"/>
+      <class name="com.aesis.test.replace_profile_photo.ReplaceProfilePhotoTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

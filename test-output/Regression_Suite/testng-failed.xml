@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression_Suite]">
+  <test thread-count="5" name="AesisTest_scenarios(failed)">
+    <classes>
+      <class name="com.aesis.test.replace_profile_photo.ReplaceProfilePhotoTest">
+        <methods>
+          <include name="aesisReplaceProfilePhoto"/>
+        </methods>
+      </class> <!-- com.aesis.test.replace_profile_photo.ReplaceProfilePhotoTest -->
+      <class name="com.aesis.test.event_record.AddEventRecordsTest">
+        <methods>
+          <include name="aesisEventRecord"/>
+        </methods>
+      </class> <!-- com.aesis.test.event_record.AddEventRecordsTest -->
+    </classes>
+  </test> <!-- AesisTest_scenarios(failed) -->
+</suite> <!-- Failed suite [Regression_Suite] -->
