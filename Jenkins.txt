@@ -1,0 +1,29 @@
+=============JenKins Contineous Integration Tool============
+
+Jenkins is a continuous integration tool used for executing tests and automating test cases to ensure the discovery of issues earlier in the development process.
+
+Jenkins is commonly used for CI/CD pipelines. Set up CI/CD pipelines to automate the software delivery process from code commit to deployment.
+
+step-by-step guide to get you started with Jenkins:
+
+1. Installation:
+
+    https://www.jenkins.io/download/
+	Download Jenkins 2.440.2 LTS for:
+	Install War Files:8126628e9e2f8ee2f807d489ec0a6e37fc9f5d6ba84fa8f3718e7f3e2a27312e
+	
+	https://www.jenkins.io/doc/book/installing/war-file/
+	Software requirements:
+
+    Java: see the Java Requirements page
+
+    Web browser: see the Web Browser Compatibility page
+ 
+    For Windows operating system: Windows Support Policy
+
+    For Linux operating system: Linux Support Policy
+
+    For servlet containers: Servlet Container Support Policy
+	
+=====================================================================
+Secreate Key: 17a4a37d01d8463ca2b5446313e7e0da
